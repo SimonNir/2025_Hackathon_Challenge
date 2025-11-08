@@ -1,0 +1,387 @@
+{
+  "nodes": [
+    {
+      "id": "q_start_0",
+      "name": "q0_init",
+      "type": "init",
+      "position": -1,
+      "qubits": ["0"],
+      "layer": -1
+    },
+    {
+      "id": "q_start_1",
+      "name": "q1_init",
+      "type": "init",
+      "position": -1,
+      "qubits": ["1"],
+      "layer": -1
+    },
+    {
+      "id": "q_start_2",
+      "name": "q2_init",
+      "type": "init",
+      "position": -1,
+      "qubits": ["2"],
+      "layer": -1
+    },
+    {
+      "id": "gate_0",
+      "name": "h",
+      "type": "gate",
+      "position": 0,
+      "qubits": ["2"],
+      "layer": 0
+    },
+    {
+      "id": "gate_1",
+      "name": "cx",
+      "type": "gate",
+      "position": 1,
+      "qubits": ["1", "2"],
+      "layer": 1
+    },
+    {
+      "id": "gate_2",
+      "name": "u3",
+      "type": "gate",
+      "position": 2,
+      "qubits": ["2"],
+      "layer": 2
+    },
+    {
+      "id": "gate_3",
+      "name": "cx",
+      "type": "gate",
+      "position": 3,
+      "qubits": ["1", "2"],
+      "layer": 3
+    },
+    {
+      "id": "gate_4",
+      "name": "u3",
+      "type": "gate",
+      "position": 4,
+      "qubits": ["2"],
+      "layer": 4
+    },
+    {
+      "id": "gate_5",
+      "name": "h",
+      "type": "gate",
+      "position": 5,
+      "qubits": ["1"],
+      "layer": 4
+    },
+    {
+      "id": "gate_6",
+      "name": "cx",
+      "type": "gate",
+      "position": 6,
+      "qubits": ["0", "2"],
+      "layer": 5
+    },
+    {
+      "id": "gate_7",
+      "name": "u3",
+      "type": "gate",
+      "position": 7,
+      "qubits": ["2"],
+      "layer": 6
+    },
+    {
+      "id": "gate_8",
+      "name": "cx",
+      "type": "gate",
+      "position": 8,
+      "qubits": ["0", "2"],
+      "layer": 7
+    },
+    {
+      "id": "gate_9",
+      "name": "u3",
+      "type": "gate",
+      "position": 9,
+      "qubits": ["2"],
+      "layer": 8
+    },
+    {
+      "id": "gate_10",
+      "name": "cx",
+      "type": "gate",
+      "position": 10,
+      "qubits": ["0", "1"],
+      "layer": 7
+    },
+    {
+      "id": "gate_11",
+      "name": "u3",
+      "type": "gate",
+      "position": 11,
+      "qubits": ["1"],
+      "layer": 8
+    },
+    {
+      "id": "gate_12",
+      "name": "cx",
+      "type": "gate",
+      "position": 12,
+      "qubits": ["0", "1"],
+      "layer": 9
+    },
+    {
+      "id": "gate_13",
+      "name": "u3",
+      "type": "gate",
+      "position": 13,
+      "qubits": ["1"],
+      "layer": 10
+    },
+    {
+      "id": "gate_14",
+      "name": "h",
+      "type": "gate",
+      "position": 14,
+      "qubits": ["0"],
+      "layer": 10
+    },
+    {
+      "id": "q_end_0",
+      "name": "q0_end",
+      "type": "end",
+      "position": 15,
+      "qubits": ["0"],
+      "layer": 11
+    },
+    {
+      "id": "q_end_1",
+      "name": "q1_end",
+      "type": "end",
+      "position": 15,
+      "qubits": ["1"],
+      "layer": 11
+    },
+    {
+      "id": "q_end_2",
+      "name": "q2_end",
+      "type": "end",
+      "position": 15,
+      "qubits": ["2"],
+      "layer": 11
+    }
+  ],
+  "edges": [
+    {
+      "name": "q2",
+      "from-node": "q_start_2",
+      "to-node": "gate_0",
+      "qubit": "2"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_0",
+      "to-node": "gate_1",
+      "qubit": "2"
+    },
+    {
+      "name": "q1",
+      "from-node": "q_start_1",
+      "to-node": "gate_1",
+      "qubit": "1"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_1",
+      "to-node": "gate_2",
+      "qubit": "2"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_1",
+      "to-node": "gate_3",
+      "qubit": "1"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_2",
+      "to-node": "gate_3",
+      "qubit": "2"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_3",
+      "to-node": "gate_4",
+      "qubit": "2"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_3",
+      "to-node": "gate_5",
+      "qubit": "1"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_4",
+      "to-node": "gate_6",
+      "qubit": "2"
+    },
+    {
+      "name": "q0",
+      "from-node": "q_start_0",
+      "to-node": "gate_6",
+      "qubit": "0"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_6",
+      "to-node": "gate_7",
+      "qubit": "2"
+    },
+    {
+      "name": "q0",
+      "from-node": "gate_6",
+      "to-node": "gate_8",
+      "qubit": "0"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_7",
+      "to-node": "gate_8",
+      "qubit": "2"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_8",
+      "to-node": "gate_9",
+      "qubit": "2"
+    },
+    {
+      "name": "q0",
+      "from-node": "gate_8",
+      "to-node": "gate_10",
+      "qubit": "0"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_5",
+      "to-node": "gate_10",
+      "qubit": "1"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_10",
+      "to-node": "gate_11",
+      "qubit": "1"
+    },
+    {
+      "name": "q0",
+      "from-node": "gate_10",
+      "to-node": "gate_12",
+      "qubit": "0"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_11",
+      "to-node": "gate_12",
+      "qubit": "1"
+    },
+    {
+      "name": "q0",
+      "from-node": "gate_12",
+      "to-node": "gate_14",
+      "qubit": "0"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_12",
+      "to-node": "gate_13",
+      "qubit": "1"
+    },
+    {
+      "name": "q0",
+      "from-node": "gate_14",
+      "to-node": "q_end_0",
+      "qubit": "0"
+    },
+    {
+      "name": "q1",
+      "from-node": "gate_13",
+      "to-node": "q_end_1",
+      "qubit": "1"
+    },
+    {
+      "name": "q2",
+      "from-node": "gate_9",
+      "to-node": "q_end_2",
+      "qubit": "2"
+    }
+  ],
+  "macros": [
+    {
+      "name": "CRZ(pi/2)",
+      "gate_ids": ["gate_1", "gate_2", "gate_3", "gate_4"],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": ["1", "2"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["2"]
+        },
+        {
+          "name": "cx",
+          "qubits": ["1", "2"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["2"]
+        }
+      ]
+    },
+    {
+      "name": "CRZ(pi/4)",
+      "gate_ids": ["gate_6", "gate_7", "gate_8", "gate_9"],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": ["0", "2"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["2"]
+        },
+        {
+          "name": "cx",
+          "qubits": ["0", "2"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["2"]
+        }
+      ]
+    },
+    {
+      "name": "CRZ(pi/2)",
+      "gate_ids": ["gate_10", "gate_11", "gate_12", "gate_13"],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": ["0", "1"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["1"]
+        },
+        {
+          "name": "cx",
+          "qubits": ["0", "1"]
+        },
+        {
+          "name": "u3",
+          "qubits": ["1"]
+        }
+      ]
+    }
+  ]
+}
+

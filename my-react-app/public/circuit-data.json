@@ -1,0 +1,154 @@
+{
+  "qubits": [
+    { "id": "q0", "label": "q0" },
+    { "id": "q1", "label": "q1" },
+    { "id": "q2", "label": "q2" }
+  ],
+  "gates": [
+    { "id": "h1", "label": "H", "type": "custom" },
+    { "id": "cx1", "label": "CX", "type": "custom" },
+    { "id": "u31", "label": "U3", "type": "custom" },
+    { "id": "cx2", "label": "CX", "type": "custom" },
+    { "id": "u32", "label": "U3", "type": "custom" },
+    { "id": "h2", "label": "H", "type": "custom" },
+    { "id": "cx3", "label": "CX", "type": "custom" },
+    { "id": "u33", "label": "U3", "type": "custom" },
+    { "id": "cx4", "label": "CX", "type": "custom" },
+    { "id": "u34", "label": "U3", "type": "custom" },
+    { "id": "cx5", "label": "CX", "type": "custom" },
+    { "id": "u35", "label": "U3", "type": "custom" },
+    { "id": "cx6", "label": "CX", "type": "custom" },
+    { "id": "h3", "label": "H", "type": "custom" },
+    { "id": "u36", "label": "U3", "type": "custom" }
+  ],
+  "connections": [
+    {
+      "source": "q2",
+      "target": "h1",
+      "qubit": "q2"
+    },
+    {
+      "source": "h1",
+      "target": "cx1",
+      "qubit": "q2"
+    },
+    {
+      "source": "cx1",
+      "target": "u31",
+      "qubit": "q2"
+    },
+    {
+      "source": "u31",
+      "target": "cx2",
+      "qubit": "q2"
+    },
+    {
+      "source": "cx2",
+      "target": "u32",
+      "qubit": "q2"
+    },
+    {
+      "source": "u32",
+      "target": "cx3",
+      "qubit": "q2"
+    },
+    {
+      "source": "cx3",
+      "target": "u33",
+      "qubit": "q2"
+    },
+    {
+      "source": "u33",
+      "target": "cx4",
+      "qubit": "q2"
+    },
+    {
+      "source": "cx4",
+      "target": "u34",
+      "qubit": "q2"
+    },
+    {
+      "source": "q1",
+      "target": "cx1",
+      "qubit": "q1"
+    },
+    {
+      "source": "cx1",
+      "target": "cx2",
+      "qubit": "q1"
+    },
+    {
+      "source": "cx2",
+      "target": "h2",
+      "qubit": "q1"
+    },
+    {
+      "source": "h2",
+      "target": "cx5",
+      "qubit": "q1"
+    },
+    {
+      "source": "cx5",
+      "target": "u35",
+      "qubit": "q1"
+    },
+    {
+      "source": "u35",
+      "target": "cx6",
+      "qubit": "q1"
+    },
+    {
+      "source": "cx6",
+      "target": "u36",
+      "qubit": "q1"
+    },
+    {
+      "source": "q0",
+      "target": "cx3",
+      "qubit": "q0"
+    },
+    {
+      "source": "cx3",
+      "target": "cx4",
+      "qubit": "q0"
+    },
+    {
+      "source": "cx4",
+      "target": "cx5",
+      "qubit": "q0"
+    },
+    {
+      "source": "cx5",
+      "target": "cx6",
+      "qubit": "q0"
+    },
+    {
+      "source": "cx6",
+      "target": "h3",
+      "qubit": "q0"
+    }
+  ],
+  "subcircuits": [
+    {
+      "id": "group1",
+      "label": "CRZ(pi/2)",
+      "gates": ["cx1", "u31", "cx2", "u32"]
+    },
+    {
+      "id": "group2",
+      "label": "CRZ(pi/4)",
+      "gates": ["cx3", "u33", "cx4", "u34"]
+    },
+    {
+      "id": "group3",
+      "label": "CRZ(pi/2)",
+      "gates": ["cx5", "u35", "cx6", "u36"]
+    }
+  ],
+  "colors": {
+    "q0": "#ffa500",
+    "q1": "#3498db",
+    "q2": "#2ecc71"
+  }
+}
+

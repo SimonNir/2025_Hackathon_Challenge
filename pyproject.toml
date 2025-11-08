@@ -1,0 +1,72 @@
+[project]
+name = "quilt"
+version = "0.1.0"
+description = "Quantum circuit macro-gate detection and hierarchical visualization tool"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+authors = [
+    {name = "Bruno", email = "bruno@quantum.bear"}
+]
+keywords = ["quantum", "qiskit", "circuit", "macro-gate", "dag", "visualization"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+
+dependencies = [
+    "qiskit>=2.2.3",
+    "qiskit-aer>=0.14.0",
+    "qiskit-qasm3-import>=0.5.0",
+    "matplotlib>=3.8.0",
+    "pylatexenc>=2.10",
+    "numpy>=1.26.0",
+    "scipy>=1.12.0",
+    "pillow>=10.0.0",
+    "pydot>=1.4.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
+
+[project.scripts]
+quilt = "macro_gate_detector.macro_gate_detector:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["macro_gate_detector"]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
+
+[tool.black]
+line-length = 100
+target-version = ['py312']
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.pytest.ini_options]
+testpaths = ["macro_gate_detector/tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+

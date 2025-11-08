@@ -1,0 +1,3084 @@
+{
+  "nodes": [
+    {
+      "id": "q_start_0",
+      "name": "q0_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "0"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_1",
+      "name": "q1_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "1"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_2",
+      "name": "q2_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "2"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_3",
+      "name": "q3_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "3"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_4",
+      "name": "q4_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "4"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_5",
+      "name": "q5_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "5"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_6",
+      "name": "q6_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "6"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_7",
+      "name": "q7_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "7"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_8",
+      "name": "q8_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "8"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_9",
+      "name": "q9_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "9"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_10",
+      "name": "q10_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "10"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_11",
+      "name": "q11_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "11"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_12",
+      "name": "q12_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "12"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_13",
+      "name": "q13_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "13"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_14",
+      "name": "q14_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "14"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_15",
+      "name": "q15_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "15"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_16",
+      "name": "q16_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "16"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_17",
+      "name": "q17_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "17"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_18",
+      "name": "q18_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "18"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_19",
+      "name": "q19_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "19"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_20",
+      "name": "q20_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "20"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_21",
+      "name": "q21_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "21"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_22",
+      "name": "q22_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "22"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_23",
+      "name": "q23_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "23"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_24",
+      "name": "q24_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "24"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_25",
+      "name": "q25_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "25"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_26",
+      "name": "q26_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "26"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_27",
+      "name": "q27_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "27"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_28",
+      "name": "q28_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "28"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_29",
+      "name": "q29_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "29"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_30",
+      "name": "q30_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "30"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_31",
+      "name": "q31_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "31"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_32",
+      "name": "q32_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "32"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_33",
+      "name": "q33_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "33"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_34",
+      "name": "q34_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "34"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_35",
+      "name": "q35_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "35"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_36",
+      "name": "q36_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "36"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_37",
+      "name": "q37_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "37"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_38",
+      "name": "q38_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "38"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_39",
+      "name": "q39_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "39"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_40",
+      "name": "q40_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "40"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_41",
+      "name": "q41_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "41"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_42",
+      "name": "q42_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "42"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "q_start_43",
+      "name": "q43_init",
+      "type": "init",
+      "position": -1,
+      "qubits": [
+        "43"
+      ],
+      "layer": -1
+    },
+    {
+      "id": "gate_0",
+      "name": "x",
+      "type": "gate",
+      "position": 0,
+      "qubits": [
+        "12"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_1",
+      "name": "x",
+      "type": "gate",
+      "position": 1,
+      "qubits": [
+        "13"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_2",
+      "name": "x",
+      "type": "gate",
+      "position": 2,
+      "qubits": [
+        "14"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_3",
+      "name": "x",
+      "type": "gate",
+      "position": 3,
+      "qubits": [
+        "15"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_4",
+      "name": "x",
+      "type": "gate",
+      "position": 4,
+      "qubits": [
+        "16"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_5",
+      "name": "x",
+      "type": "gate",
+      "position": 5,
+      "qubits": [
+        "17"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_6",
+      "name": "x",
+      "type": "gate",
+      "position": 6,
+      "qubits": [
+        "18"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_7",
+      "name": "x",
+      "type": "gate",
+      "position": 7,
+      "qubits": [
+        "19"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_8",
+      "name": "x",
+      "type": "gate",
+      "position": 8,
+      "qubits": [
+        "20"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_9",
+      "name": "x",
+      "type": "gate",
+      "position": 9,
+      "qubits": [
+        "21"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_10",
+      "name": "x",
+      "type": "gate",
+      "position": 10,
+      "qubits": [
+        "22"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_11",
+      "name": "x",
+      "type": "gate",
+      "position": 11,
+      "qubits": [
+        "23"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_12",
+      "name": "x",
+      "type": "gate",
+      "position": 12,
+      "qubits": [
+        "24"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_13",
+      "name": "x",
+      "type": "gate",
+      "position": 13,
+      "qubits": [
+        "25"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_14",
+      "name": "x",
+      "type": "gate",
+      "position": 14,
+      "qubits": [
+        "26"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_15",
+      "name": "x",
+      "type": "gate",
+      "position": 15,
+      "qubits": [
+        "27"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_16",
+      "name": "x",
+      "type": "gate",
+      "position": 16,
+      "qubits": [
+        "28"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_17",
+      "name": "x",
+      "type": "gate",
+      "position": 17,
+      "qubits": [
+        "29"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_18",
+      "name": "cx",
+      "type": "gate",
+      "position": 18,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 1
+    },
+    {
+      "id": "gate_19",
+      "name": "u2",
+      "type": "gate",
+      "position": 19,
+      "qubits": [
+        "29"
+      ],
+      "layer": 2
+    },
+    {
+      "id": "gate_20",
+      "name": "x",
+      "type": "gate",
+      "position": 20,
+      "qubits": [
+        "30"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_21",
+      "name": "x",
+      "type": "gate",
+      "position": 21,
+      "qubits": [
+        "31"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_22",
+      "name": "x",
+      "type": "gate",
+      "position": 22,
+      "qubits": [
+        "32"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_23",
+      "name": "x",
+      "type": "gate",
+      "position": 23,
+      "qubits": [
+        "33"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_24",
+      "name": "x",
+      "type": "gate",
+      "position": 24,
+      "qubits": [
+        "34"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_25",
+      "name": "x",
+      "type": "gate",
+      "position": 25,
+      "qubits": [
+        "35"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_26",
+      "name": "cx",
+      "type": "gate",
+      "position": 26,
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "layer": 1
+    },
+    {
+      "id": "gate_27",
+      "name": "cx",
+      "type": "gate",
+      "position": 27,
+      "qubits": [
+        "28",
+        "34"
+      ],
+      "layer": 2
+    },
+    {
+      "id": "gate_28",
+      "name": "ry",
+      "type": "gate",
+      "position": 28,
+      "qubits": [
+        "28"
+      ],
+      "layer": 3
+    },
+    {
+      "id": "gate_29",
+      "name": "cx",
+      "type": "gate",
+      "position": 29,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 4
+    },
+    {
+      "id": "gate_30",
+      "name": "ry",
+      "type": "gate",
+      "position": 30,
+      "qubits": [
+        "28"
+      ],
+      "layer": 5
+    },
+    {
+      "id": "gate_31",
+      "name": "h",
+      "type": "gate",
+      "position": 31,
+      "qubits": [
+        "34"
+      ],
+      "layer": 3
+    },
+    {
+      "id": "gate_32",
+      "name": "u2",
+      "type": "gate",
+      "position": 32,
+      "qubits": [
+        "35"
+      ],
+      "layer": 2
+    },
+    {
+      "id": "gate_33",
+      "name": "cx",
+      "type": "gate",
+      "position": 33,
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "layer": 6
+    },
+    {
+      "id": "gate_34",
+      "name": "ry",
+      "type": "gate",
+      "position": 34,
+      "qubits": [
+        "28"
+      ],
+      "layer": 7
+    },
+    {
+      "id": "gate_35",
+      "name": "cx",
+      "type": "gate",
+      "position": 35,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 8
+    },
+    {
+      "id": "gate_36",
+      "name": "ry",
+      "type": "gate",
+      "position": 36,
+      "qubits": [
+        "28"
+      ],
+      "layer": 9
+    },
+    {
+      "id": "gate_37",
+      "name": "cx",
+      "type": "gate",
+      "position": 37,
+      "qubits": [
+        "28",
+        "34"
+      ],
+      "layer": 10
+    },
+    {
+      "id": "gate_38",
+      "name": "ry",
+      "type": "gate",
+      "position": 38,
+      "qubits": [
+        "28"
+      ],
+      "layer": 11
+    },
+    {
+      "id": "gate_39",
+      "name": "cx",
+      "type": "gate",
+      "position": 39,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 12
+    },
+    {
+      "id": "gate_40",
+      "name": "ry",
+      "type": "gate",
+      "position": 40,
+      "qubits": [
+        "28"
+      ],
+      "layer": 13
+    },
+    {
+      "id": "gate_41",
+      "name": "cx",
+      "type": "gate",
+      "position": 41,
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "layer": 14
+    },
+    {
+      "id": "gate_42",
+      "name": "ry",
+      "type": "gate",
+      "position": 42,
+      "qubits": [
+        "28"
+      ],
+      "layer": 15
+    },
+    {
+      "id": "gate_43",
+      "name": "cx",
+      "type": "gate",
+      "position": 43,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 16
+    },
+    {
+      "id": "gate_44",
+      "name": "ry",
+      "type": "gate",
+      "position": 44,
+      "qubits": [
+        "28"
+      ],
+      "layer": 17
+    },
+    {
+      "id": "gate_45",
+      "name": "u2",
+      "type": "gate",
+      "position": 45,
+      "qubits": [
+        "29"
+      ],
+      "layer": 17
+    },
+    {
+      "id": "gate_46",
+      "name": "rz",
+      "type": "gate",
+      "position": 46,
+      "qubits": [
+        "34"
+      ],
+      "layer": 11
+    },
+    {
+      "id": "gate_47",
+      "name": "cx",
+      "type": "gate",
+      "position": 47,
+      "qubits": [
+        "28",
+        "34"
+      ],
+      "layer": 18
+    },
+    {
+      "id": "gate_48",
+      "name": "rz",
+      "type": "gate",
+      "position": 48,
+      "qubits": [
+        "28"
+      ],
+      "layer": 19
+    },
+    {
+      "id": "gate_49",
+      "name": "cx",
+      "type": "gate",
+      "position": 49,
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "layer": 20
+    },
+    {
+      "id": "gate_50",
+      "name": "u2",
+      "type": "gate",
+      "position": 50,
+      "qubits": [
+        "34"
+      ],
+      "layer": 19
+    },
+    {
+      "id": "gate_51",
+      "name": "u2",
+      "type": "gate",
+      "position": 51,
+      "qubits": [
+        "35"
+      ],
+      "layer": 15
+    },
+    {
+      "id": "gate_52",
+      "name": "cx",
+      "type": "gate",
+      "position": 52,
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "layer": 20
+    },
+    {
+      "id": "gate_53",
+      "name": "cx",
+      "type": "gate",
+      "position": 53,
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "layer": 21
+    },
+    {
+      "id": "gate_54",
+      "name": "cx",
+      "type": "gate",
+      "position": 54,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 21
+    },
+    {
+      "id": "gate_55",
+      "name": "u2",
+      "type": "gate",
+      "position": 55,
+      "qubits": [
+        "29"
+      ],
+      "layer": 22
+    },
+    {
+      "id": "gate_56",
+      "name": "cx",
+      "type": "gate",
+      "position": 56,
+      "qubits": [
+        "34",
+        "28"
+      ],
+      "layer": 22
+    },
+    {
+      "id": "gate_57",
+      "name": "h",
+      "type": "gate",
+      "position": 57,
+      "qubits": [
+        "28"
+      ],
+      "layer": 23
+    },
+    {
+      "id": "gate_58",
+      "name": "ry",
+      "type": "gate",
+      "position": 58,
+      "qubits": [
+        "34"
+      ],
+      "layer": 23
+    },
+    {
+      "id": "gate_59",
+      "name": "cx",
+      "type": "gate",
+      "position": 59,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 24
+    },
+    {
+      "id": "gate_60",
+      "name": "ry",
+      "type": "gate",
+      "position": 60,
+      "qubits": [
+        "34"
+      ],
+      "layer": 25
+    },
+    {
+      "id": "gate_61",
+      "name": "u2",
+      "type": "gate",
+      "position": 61,
+      "qubits": [
+        "35"
+      ],
+      "layer": 22
+    },
+    {
+      "id": "gate_62",
+      "name": "cx",
+      "type": "gate",
+      "position": 62,
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "layer": 26
+    },
+    {
+      "id": "gate_63",
+      "name": "ry",
+      "type": "gate",
+      "position": 63,
+      "qubits": [
+        "34"
+      ],
+      "layer": 27
+    },
+    {
+      "id": "gate_64",
+      "name": "cx",
+      "type": "gate",
+      "position": 64,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 28
+    },
+    {
+      "id": "gate_65",
+      "name": "ry",
+      "type": "gate",
+      "position": 65,
+      "qubits": [
+        "34"
+      ],
+      "layer": 29
+    },
+    {
+      "id": "gate_66",
+      "name": "cx",
+      "type": "gate",
+      "position": 66,
+      "qubits": [
+        "34",
+        "28"
+      ],
+      "layer": 30
+    },
+    {
+      "id": "gate_67",
+      "name": "rz",
+      "type": "gate",
+      "position": 67,
+      "qubits": [
+        "28"
+      ],
+      "layer": 31
+    },
+    {
+      "id": "gate_68",
+      "name": "ry",
+      "type": "gate",
+      "position": 68,
+      "qubits": [
+        "34"
+      ],
+      "layer": 31
+    },
+    {
+      "id": "gate_69",
+      "name": "cx",
+      "type": "gate",
+      "position": 69,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 32
+    },
+    {
+      "id": "gate_70",
+      "name": "ry",
+      "type": "gate",
+      "position": 70,
+      "qubits": [
+        "34"
+      ],
+      "layer": 33
+    },
+    {
+      "id": "gate_71",
+      "name": "cx",
+      "type": "gate",
+      "position": 71,
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "layer": 34
+    },
+    {
+      "id": "gate_72",
+      "name": "ry",
+      "type": "gate",
+      "position": 72,
+      "qubits": [
+        "34"
+      ],
+      "layer": 35
+    },
+    {
+      "id": "gate_73",
+      "name": "cx",
+      "type": "gate",
+      "position": 73,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 36
+    },
+    {
+      "id": "gate_74",
+      "name": "u2",
+      "type": "gate",
+      "position": 74,
+      "qubits": [
+        "29"
+      ],
+      "layer": 37
+    },
+    {
+      "id": "gate_75",
+      "name": "ry",
+      "type": "gate",
+      "position": 75,
+      "qubits": [
+        "34"
+      ],
+      "layer": 37
+    },
+    {
+      "id": "gate_76",
+      "name": "cx",
+      "type": "gate",
+      "position": 76,
+      "qubits": [
+        "34",
+        "28"
+      ],
+      "layer": 38
+    },
+    {
+      "id": "gate_77",
+      "name": "u2",
+      "type": "gate",
+      "position": 77,
+      "qubits": [
+        "28"
+      ],
+      "layer": 39
+    },
+    {
+      "id": "gate_78",
+      "name": "rz",
+      "type": "gate",
+      "position": 78,
+      "qubits": [
+        "34"
+      ],
+      "layer": 39
+    },
+    {
+      "id": "gate_79",
+      "name": "cx",
+      "type": "gate",
+      "position": 79,
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "layer": 40
+    },
+    {
+      "id": "gate_80",
+      "name": "u2",
+      "type": "gate",
+      "position": 80,
+      "qubits": [
+        "35"
+      ],
+      "layer": 35
+    },
+    {
+      "id": "gate_81",
+      "name": "cx",
+      "type": "gate",
+      "position": 81,
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "layer": 40
+    },
+    {
+      "id": "gate_82",
+      "name": "x",
+      "type": "gate",
+      "position": 82,
+      "qubits": [
+        "36"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_83",
+      "name": "x",
+      "type": "gate",
+      "position": 83,
+      "qubits": [
+        "37"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_84",
+      "name": "x",
+      "type": "gate",
+      "position": 84,
+      "qubits": [
+        "38"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_85",
+      "name": "x",
+      "type": "gate",
+      "position": 85,
+      "qubits": [
+        "39"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_86",
+      "name": "x",
+      "type": "gate",
+      "position": 86,
+      "qubits": [
+        "40"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_87",
+      "name": "x",
+      "type": "gate",
+      "position": 87,
+      "qubits": [
+        "41"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_88",
+      "name": "x",
+      "type": "gate",
+      "position": 88,
+      "qubits": [
+        "42"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "gate_89",
+      "name": "x",
+      "type": "gate",
+      "position": 89,
+      "qubits": [
+        "43"
+      ],
+      "layer": 0
+    },
+    {
+      "id": "q_end_0",
+      "name": "q0_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "0"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_1",
+      "name": "q1_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "1"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_2",
+      "name": "q2_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "2"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_3",
+      "name": "q3_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "3"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_4",
+      "name": "q4_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "4"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_5",
+      "name": "q5_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "5"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_6",
+      "name": "q6_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "6"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_7",
+      "name": "q7_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "7"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_8",
+      "name": "q8_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "8"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_9",
+      "name": "q9_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "9"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_10",
+      "name": "q10_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "10"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_11",
+      "name": "q11_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "11"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_12",
+      "name": "q12_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "12"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_13",
+      "name": "q13_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "13"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_14",
+      "name": "q14_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "14"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_15",
+      "name": "q15_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "15"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_16",
+      "name": "q16_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "16"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_17",
+      "name": "q17_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "17"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_18",
+      "name": "q18_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "18"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_19",
+      "name": "q19_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "19"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_20",
+      "name": "q20_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "20"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_21",
+      "name": "q21_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "21"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_22",
+      "name": "q22_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "22"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_23",
+      "name": "q23_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "23"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_24",
+      "name": "q24_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "24"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_25",
+      "name": "q25_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "25"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_26",
+      "name": "q26_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "26"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_27",
+      "name": "q27_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "27"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_28",
+      "name": "q28_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "28"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_29",
+      "name": "q29_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "29"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_30",
+      "name": "q30_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "30"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_31",
+      "name": "q31_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "31"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_32",
+      "name": "q32_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "32"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_33",
+      "name": "q33_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "33"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_34",
+      "name": "q34_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "34"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_35",
+      "name": "q35_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "35"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_36",
+      "name": "q36_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "36"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_37",
+      "name": "q37_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "37"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_38",
+      "name": "q38_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "38"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_39",
+      "name": "q39_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "39"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_40",
+      "name": "q40_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "40"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_41",
+      "name": "q41_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "41"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_42",
+      "name": "q42_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "42"
+      ],
+      "layer": 41
+    },
+    {
+      "id": "q_end_43",
+      "name": "q43_end",
+      "type": "end",
+      "position": 90,
+      "qubits": [
+        "43"
+      ],
+      "layer": 41
+    }
+  ],
+  "edges": [
+    {
+      "name": "q12",
+      "from-node": "q_start_12",
+      "to-node": "gate_0",
+      "qubit": "12"
+    },
+    {
+      "name": "q13",
+      "from-node": "q_start_13",
+      "to-node": "gate_1",
+      "qubit": "13"
+    },
+    {
+      "name": "q14",
+      "from-node": "q_start_14",
+      "to-node": "gate_2",
+      "qubit": "14"
+    },
+    {
+      "name": "q15",
+      "from-node": "q_start_15",
+      "to-node": "gate_3",
+      "qubit": "15"
+    },
+    {
+      "name": "q16",
+      "from-node": "q_start_16",
+      "to-node": "gate_4",
+      "qubit": "16"
+    },
+    {
+      "name": "q17",
+      "from-node": "q_start_17",
+      "to-node": "gate_5",
+      "qubit": "17"
+    },
+    {
+      "name": "q18",
+      "from-node": "q_start_18",
+      "to-node": "gate_6",
+      "qubit": "18"
+    },
+    {
+      "name": "q19",
+      "from-node": "q_start_19",
+      "to-node": "gate_7",
+      "qubit": "19"
+    },
+    {
+      "name": "q20",
+      "from-node": "q_start_20",
+      "to-node": "gate_8",
+      "qubit": "20"
+    },
+    {
+      "name": "q21",
+      "from-node": "q_start_21",
+      "to-node": "gate_9",
+      "qubit": "21"
+    },
+    {
+      "name": "q22",
+      "from-node": "q_start_22",
+      "to-node": "gate_10",
+      "qubit": "22"
+    },
+    {
+      "name": "q23",
+      "from-node": "q_start_23",
+      "to-node": "gate_11",
+      "qubit": "23"
+    },
+    {
+      "name": "q24",
+      "from-node": "q_start_24",
+      "to-node": "gate_12",
+      "qubit": "24"
+    },
+    {
+      "name": "q25",
+      "from-node": "q_start_25",
+      "to-node": "gate_13",
+      "qubit": "25"
+    },
+    {
+      "name": "q26",
+      "from-node": "q_start_26",
+      "to-node": "gate_14",
+      "qubit": "26"
+    },
+    {
+      "name": "q27",
+      "from-node": "q_start_27",
+      "to-node": "gate_15",
+      "qubit": "27"
+    },
+    {
+      "name": "q28",
+      "from-node": "q_start_28",
+      "to-node": "gate_16",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "q_start_29",
+      "to-node": "gate_17",
+      "qubit": "29"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_16",
+      "to-node": "gate_18",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_17",
+      "to-node": "gate_18",
+      "qubit": "29"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_18",
+      "to-node": "gate_19",
+      "qubit": "29"
+    },
+    {
+      "name": "q30",
+      "from-node": "q_start_30",
+      "to-node": "gate_20",
+      "qubit": "30"
+    },
+    {
+      "name": "q31",
+      "from-node": "q_start_31",
+      "to-node": "gate_21",
+      "qubit": "31"
+    },
+    {
+      "name": "q32",
+      "from-node": "q_start_32",
+      "to-node": "gate_22",
+      "qubit": "32"
+    },
+    {
+      "name": "q33",
+      "from-node": "q_start_33",
+      "to-node": "gate_23",
+      "qubit": "33"
+    },
+    {
+      "name": "q34",
+      "from-node": "q_start_34",
+      "to-node": "gate_24",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "q_start_35",
+      "to-node": "gate_25",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_24",
+      "to-node": "gate_26",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_25",
+      "to-node": "gate_26",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_18",
+      "to-node": "gate_27",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_26",
+      "to-node": "gate_27",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_27",
+      "to-node": "gate_28",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_28",
+      "to-node": "gate_29",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_19",
+      "to-node": "gate_29",
+      "qubit": "29"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_29",
+      "to-node": "gate_30",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_27",
+      "to-node": "gate_31",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_26",
+      "to-node": "gate_32",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_30",
+      "to-node": "gate_33",
+      "qubit": "28"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_32",
+      "to-node": "gate_33",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_33",
+      "to-node": "gate_34",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_34",
+      "to-node": "gate_35",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_29",
+      "to-node": "gate_35",
+      "qubit": "29"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_35",
+      "to-node": "gate_36",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_36",
+      "to-node": "gate_37",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_31",
+      "to-node": "gate_37",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_37",
+      "to-node": "gate_38",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_38",
+      "to-node": "gate_39",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_35",
+      "to-node": "gate_39",
+      "qubit": "29"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_39",
+      "to-node": "gate_40",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_40",
+      "to-node": "gate_41",
+      "qubit": "28"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_33",
+      "to-node": "gate_41",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_41",
+      "to-node": "gate_42",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_42",
+      "to-node": "gate_43",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_39",
+      "to-node": "gate_43",
+      "qubit": "29"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_43",
+      "to-node": "gate_44",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_43",
+      "to-node": "gate_45",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_37",
+      "to-node": "gate_46",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_44",
+      "to-node": "gate_47",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_46",
+      "to-node": "gate_47",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_47",
+      "to-node": "gate_48",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_48",
+      "to-node": "gate_49",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_45",
+      "to-node": "gate_49",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_47",
+      "to-node": "gate_50",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_41",
+      "to-node": "gate_51",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_50",
+      "to-node": "gate_52",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_51",
+      "to-node": "gate_52",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_49",
+      "to-node": "gate_53",
+      "qubit": "28"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_52",
+      "to-node": "gate_53",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_52",
+      "to-node": "gate_54",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_49",
+      "to-node": "gate_54",
+      "qubit": "29"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_54",
+      "to-node": "gate_55",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_54",
+      "to-node": "gate_56",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_53",
+      "to-node": "gate_56",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_56",
+      "to-node": "gate_57",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_56",
+      "to-node": "gate_58",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_58",
+      "to-node": "gate_59",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_55",
+      "to-node": "gate_59",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_59",
+      "to-node": "gate_60",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_53",
+      "to-node": "gate_61",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_60",
+      "to-node": "gate_62",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_61",
+      "to-node": "gate_62",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_62",
+      "to-node": "gate_63",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_63",
+      "to-node": "gate_64",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_59",
+      "to-node": "gate_64",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_64",
+      "to-node": "gate_65",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_65",
+      "to-node": "gate_66",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_57",
+      "to-node": "gate_66",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_66",
+      "to-node": "gate_67",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_66",
+      "to-node": "gate_68",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_68",
+      "to-node": "gate_69",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_64",
+      "to-node": "gate_69",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_69",
+      "to-node": "gate_70",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_70",
+      "to-node": "gate_71",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_62",
+      "to-node": "gate_71",
+      "qubit": "35"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_71",
+      "to-node": "gate_72",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_72",
+      "to-node": "gate_73",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_69",
+      "to-node": "gate_73",
+      "qubit": "29"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_73",
+      "to-node": "gate_74",
+      "qubit": "29"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_73",
+      "to-node": "gate_75",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_75",
+      "to-node": "gate_76",
+      "qubit": "34"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_67",
+      "to-node": "gate_76",
+      "qubit": "28"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_76",
+      "to-node": "gate_77",
+      "qubit": "28"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_76",
+      "to-node": "gate_78",
+      "qubit": "34"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_78",
+      "to-node": "gate_79",
+      "qubit": "34"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_74",
+      "to-node": "gate_79",
+      "qubit": "29"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_71",
+      "to-node": "gate_80",
+      "qubit": "35"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_77",
+      "to-node": "gate_81",
+      "qubit": "28"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_80",
+      "to-node": "gate_81",
+      "qubit": "35"
+    },
+    {
+      "name": "q36",
+      "from-node": "q_start_36",
+      "to-node": "gate_82",
+      "qubit": "36"
+    },
+    {
+      "name": "q37",
+      "from-node": "q_start_37",
+      "to-node": "gate_83",
+      "qubit": "37"
+    },
+    {
+      "name": "q38",
+      "from-node": "q_start_38",
+      "to-node": "gate_84",
+      "qubit": "38"
+    },
+    {
+      "name": "q39",
+      "from-node": "q_start_39",
+      "to-node": "gate_85",
+      "qubit": "39"
+    },
+    {
+      "name": "q40",
+      "from-node": "q_start_40",
+      "to-node": "gate_86",
+      "qubit": "40"
+    },
+    {
+      "name": "q41",
+      "from-node": "q_start_41",
+      "to-node": "gate_87",
+      "qubit": "41"
+    },
+    {
+      "name": "q42",
+      "from-node": "q_start_42",
+      "to-node": "gate_88",
+      "qubit": "42"
+    },
+    {
+      "name": "q43",
+      "from-node": "q_start_43",
+      "to-node": "gate_89",
+      "qubit": "43"
+    },
+    {
+      "name": "q0",
+      "from-node": "q_start_0",
+      "to-node": "q_end_0",
+      "qubit": "0"
+    },
+    {
+      "name": "q1",
+      "from-node": "q_start_1",
+      "to-node": "q_end_1",
+      "qubit": "1"
+    },
+    {
+      "name": "q2",
+      "from-node": "q_start_2",
+      "to-node": "q_end_2",
+      "qubit": "2"
+    },
+    {
+      "name": "q3",
+      "from-node": "q_start_3",
+      "to-node": "q_end_3",
+      "qubit": "3"
+    },
+    {
+      "name": "q4",
+      "from-node": "q_start_4",
+      "to-node": "q_end_4",
+      "qubit": "4"
+    },
+    {
+      "name": "q5",
+      "from-node": "q_start_5",
+      "to-node": "q_end_5",
+      "qubit": "5"
+    },
+    {
+      "name": "q6",
+      "from-node": "q_start_6",
+      "to-node": "q_end_6",
+      "qubit": "6"
+    },
+    {
+      "name": "q7",
+      "from-node": "q_start_7",
+      "to-node": "q_end_7",
+      "qubit": "7"
+    },
+    {
+      "name": "q8",
+      "from-node": "q_start_8",
+      "to-node": "q_end_8",
+      "qubit": "8"
+    },
+    {
+      "name": "q9",
+      "from-node": "q_start_9",
+      "to-node": "q_end_9",
+      "qubit": "9"
+    },
+    {
+      "name": "q10",
+      "from-node": "q_start_10",
+      "to-node": "q_end_10",
+      "qubit": "10"
+    },
+    {
+      "name": "q11",
+      "from-node": "q_start_11",
+      "to-node": "q_end_11",
+      "qubit": "11"
+    },
+    {
+      "name": "q12",
+      "from-node": "gate_0",
+      "to-node": "q_end_12",
+      "qubit": "12"
+    },
+    {
+      "name": "q13",
+      "from-node": "gate_1",
+      "to-node": "q_end_13",
+      "qubit": "13"
+    },
+    {
+      "name": "q14",
+      "from-node": "gate_2",
+      "to-node": "q_end_14",
+      "qubit": "14"
+    },
+    {
+      "name": "q15",
+      "from-node": "gate_3",
+      "to-node": "q_end_15",
+      "qubit": "15"
+    },
+    {
+      "name": "q16",
+      "from-node": "gate_4",
+      "to-node": "q_end_16",
+      "qubit": "16"
+    },
+    {
+      "name": "q17",
+      "from-node": "gate_5",
+      "to-node": "q_end_17",
+      "qubit": "17"
+    },
+    {
+      "name": "q18",
+      "from-node": "gate_6",
+      "to-node": "q_end_18",
+      "qubit": "18"
+    },
+    {
+      "name": "q19",
+      "from-node": "gate_7",
+      "to-node": "q_end_19",
+      "qubit": "19"
+    },
+    {
+      "name": "q20",
+      "from-node": "gate_8",
+      "to-node": "q_end_20",
+      "qubit": "20"
+    },
+    {
+      "name": "q21",
+      "from-node": "gate_9",
+      "to-node": "q_end_21",
+      "qubit": "21"
+    },
+    {
+      "name": "q22",
+      "from-node": "gate_10",
+      "to-node": "q_end_22",
+      "qubit": "22"
+    },
+    {
+      "name": "q23",
+      "from-node": "gate_11",
+      "to-node": "q_end_23",
+      "qubit": "23"
+    },
+    {
+      "name": "q24",
+      "from-node": "gate_12",
+      "to-node": "q_end_24",
+      "qubit": "24"
+    },
+    {
+      "name": "q25",
+      "from-node": "gate_13",
+      "to-node": "q_end_25",
+      "qubit": "25"
+    },
+    {
+      "name": "q26",
+      "from-node": "gate_14",
+      "to-node": "q_end_26",
+      "qubit": "26"
+    },
+    {
+      "name": "q27",
+      "from-node": "gate_15",
+      "to-node": "q_end_27",
+      "qubit": "27"
+    },
+    {
+      "name": "q28",
+      "from-node": "gate_81",
+      "to-node": "q_end_28",
+      "qubit": "28"
+    },
+    {
+      "name": "q29",
+      "from-node": "gate_79",
+      "to-node": "q_end_29",
+      "qubit": "29"
+    },
+    {
+      "name": "q30",
+      "from-node": "gate_20",
+      "to-node": "q_end_30",
+      "qubit": "30"
+    },
+    {
+      "name": "q31",
+      "from-node": "gate_21",
+      "to-node": "q_end_31",
+      "qubit": "31"
+    },
+    {
+      "name": "q32",
+      "from-node": "gate_22",
+      "to-node": "q_end_32",
+      "qubit": "32"
+    },
+    {
+      "name": "q33",
+      "from-node": "gate_23",
+      "to-node": "q_end_33",
+      "qubit": "33"
+    },
+    {
+      "name": "q34",
+      "from-node": "gate_79",
+      "to-node": "q_end_34",
+      "qubit": "34"
+    },
+    {
+      "name": "q35",
+      "from-node": "gate_81",
+      "to-node": "q_end_35",
+      "qubit": "35"
+    },
+    {
+      "name": "q36",
+      "from-node": "gate_82",
+      "to-node": "q_end_36",
+      "qubit": "36"
+    },
+    {
+      "name": "q37",
+      "from-node": "gate_83",
+      "to-node": "q_end_37",
+      "qubit": "37"
+    },
+    {
+      "name": "q38",
+      "from-node": "gate_84",
+      "to-node": "q_end_38",
+      "qubit": "38"
+    },
+    {
+      "name": "q39",
+      "from-node": "gate_85",
+      "to-node": "q_end_39",
+      "qubit": "39"
+    },
+    {
+      "name": "q40",
+      "from-node": "gate_86",
+      "to-node": "q_end_40",
+      "qubit": "40"
+    },
+    {
+      "name": "q41",
+      "from-node": "gate_87",
+      "to-node": "q_end_41",
+      "qubit": "41"
+    },
+    {
+      "name": "q42",
+      "from-node": "gate_88",
+      "to-node": "q_end_42",
+      "qubit": "42"
+    },
+    {
+      "name": "q43",
+      "from-node": "gate_89",
+      "to-node": "q_end_43",
+      "qubit": "43"
+    }
+  ],
+  "macros": [
+    {
+      "name": "RY Rotation with Entangling Layer",
+      "gate_ids": [
+        "gate_27",
+        "gate_28",
+        "gate_29",
+        "gate_30"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "34"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation with Entangling Layer",
+      "gate_ids": [
+        "gate_37",
+        "gate_38",
+        "gate_39",
+        "gate_40"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "34"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation with Entangling Layer",
+      "gate_ids": [
+        "gate_33",
+        "gate_34",
+        "gate_35",
+        "gate_36"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation with Entangling Layer",
+      "gate_ids": [
+        "gate_41",
+        "gate_42",
+        "gate_43",
+        "gate_44"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rotation-Entangling Block",
+      "gate_ids": [
+        "gate_58",
+        "gate_59",
+        "gate_60"
+      ],
+      "nodes": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rotation-Entangling Block",
+      "gate_ids": [
+        "gate_68",
+        "gate_69",
+        "gate_70"
+      ],
+      "nodes": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation with CNOT Pair",
+      "gate_ids": [
+        "gate_62",
+        "gate_63",
+        "gate_64"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation with CNOT Pair",
+      "gate_ids": [
+        "gate_71",
+        "gate_72",
+        "gate_73"
+      ],
+      "nodes": [
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation Block",
+      "gate_ids": [
+        "gate_65",
+        "gate_66"
+      ],
+      "nodes": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "28"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RY Rotation Block",
+      "gate_ids": [
+        "gate_75",
+        "gate_76"
+      ],
+      "nodes": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "28"
+          ]
+        }
+      ]
+    }
+  ]
+}

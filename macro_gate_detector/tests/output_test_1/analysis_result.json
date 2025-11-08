@@ -1,0 +1,1637 @@
+{
+  "dag_flat": [
+    {
+      "position": 0,
+      "gate": "x",
+      "qubits": [
+        "12"
+      ]
+    },
+    {
+      "position": 1,
+      "gate": "x",
+      "qubits": [
+        "13"
+      ]
+    },
+    {
+      "position": 2,
+      "gate": "x",
+      "qubits": [
+        "14"
+      ]
+    },
+    {
+      "position": 3,
+      "gate": "x",
+      "qubits": [
+        "15"
+      ]
+    },
+    {
+      "position": 4,
+      "gate": "x",
+      "qubits": [
+        "16"
+      ]
+    },
+    {
+      "position": 5,
+      "gate": "x",
+      "qubits": [
+        "17"
+      ]
+    },
+    {
+      "position": 6,
+      "gate": "x",
+      "qubits": [
+        "18"
+      ]
+    },
+    {
+      "position": 7,
+      "gate": "x",
+      "qubits": [
+        "19"
+      ]
+    },
+    {
+      "position": 8,
+      "gate": "x",
+      "qubits": [
+        "20"
+      ]
+    },
+    {
+      "position": 9,
+      "gate": "x",
+      "qubits": [
+        "21"
+      ]
+    },
+    {
+      "position": 10,
+      "gate": "x",
+      "qubits": [
+        "22"
+      ]
+    },
+    {
+      "position": 11,
+      "gate": "x",
+      "qubits": [
+        "23"
+      ]
+    },
+    {
+      "position": 12,
+      "gate": "x",
+      "qubits": [
+        "24"
+      ]
+    },
+    {
+      "position": 13,
+      "gate": "x",
+      "qubits": [
+        "25"
+      ]
+    },
+    {
+      "position": 14,
+      "gate": "x",
+      "qubits": [
+        "26"
+      ]
+    },
+    {
+      "position": 15,
+      "gate": "x",
+      "qubits": [
+        "27"
+      ]
+    },
+    {
+      "position": 16,
+      "gate": "x",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 17,
+      "gate": "x",
+      "qubits": [
+        "29"
+      ]
+    },
+    {
+      "position": 18,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 19,
+      "gate": "u2",
+      "qubits": [
+        "29"
+      ]
+    },
+    {
+      "position": 20,
+      "gate": "x",
+      "qubits": [
+        "30"
+      ]
+    },
+    {
+      "position": 21,
+      "gate": "x",
+      "qubits": [
+        "31"
+      ]
+    },
+    {
+      "position": 22,
+      "gate": "x",
+      "qubits": [
+        "32"
+      ]
+    },
+    {
+      "position": 23,
+      "gate": "x",
+      "qubits": [
+        "33"
+      ]
+    },
+    {
+      "position": 24,
+      "gate": "x",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 25,
+      "gate": "x",
+      "qubits": [
+        "35"
+      ]
+    },
+    {
+      "position": 26,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "position": 27,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "34"
+      ]
+    },
+    {
+      "position": 28,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 29,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 30,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 31,
+      "gate": "h",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 32,
+      "gate": "u2",
+      "qubits": [
+        "35"
+      ]
+    },
+    {
+      "position": 33,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "position": 34,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 35,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 36,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 37,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "34"
+      ]
+    },
+    {
+      "position": 38,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 39,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 40,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 41,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "position": 42,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 43,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 44,
+      "gate": "ry",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 45,
+      "gate": "u2",
+      "qubits": [
+        "29"
+      ]
+    },
+    {
+      "position": 46,
+      "gate": "rz",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 47,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "34"
+      ]
+    },
+    {
+      "position": 48,
+      "gate": "rz",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 49,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ]
+    },
+    {
+      "position": 50,
+      "gate": "u2",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 51,
+      "gate": "u2",
+      "qubits": [
+        "35"
+      ]
+    },
+    {
+      "position": 52,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "position": 53,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "position": 54,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 55,
+      "gate": "u2",
+      "qubits": [
+        "29"
+      ]
+    },
+    {
+      "position": 56,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "28"
+      ]
+    },
+    {
+      "position": 57,
+      "gate": "h",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 58,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 59,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 60,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 61,
+      "gate": "u2",
+      "qubits": [
+        "35"
+      ]
+    },
+    {
+      "position": 62,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "position": 63,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 64,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 65,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 66,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "28"
+      ]
+    },
+    {
+      "position": 67,
+      "gate": "rz",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 68,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 69,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 70,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 71,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ]
+    },
+    {
+      "position": 72,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 73,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 74,
+      "gate": "u2",
+      "qubits": [
+        "29"
+      ]
+    },
+    {
+      "position": 75,
+      "gate": "ry",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 76,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "28"
+      ]
+    },
+    {
+      "position": 77,
+      "gate": "u2",
+      "qubits": [
+        "28"
+      ]
+    },
+    {
+      "position": 78,
+      "gate": "rz",
+      "qubits": [
+        "34"
+      ]
+    },
+    {
+      "position": 79,
+      "gate": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ]
+    },
+    {
+      "position": 80,
+      "gate": "u2",
+      "qubits": [
+        "35"
+      ]
+    },
+    {
+      "position": 81,
+      "gate": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ]
+    },
+    {
+      "position": 82,
+      "gate": "x",
+      "qubits": [
+        "36"
+      ]
+    },
+    {
+      "position": 83,
+      "gate": "x",
+      "qubits": [
+        "37"
+      ]
+    },
+    {
+      "position": 84,
+      "gate": "x",
+      "qubits": [
+        "38"
+      ]
+    },
+    {
+      "position": 85,
+      "gate": "x",
+      "qubits": [
+        "39"
+      ]
+    },
+    {
+      "position": 86,
+      "gate": "x",
+      "qubits": [
+        "40"
+      ]
+    },
+    {
+      "position": 87,
+      "gate": "x",
+      "qubits": [
+        "41"
+      ]
+    },
+    {
+      "position": 88,
+      "gate": "x",
+      "qubits": [
+        "42"
+      ]
+    },
+    {
+      "position": 89,
+      "gate": "x",
+      "qubits": [
+        "43"
+      ]
+    }
+  ],
+  "dag_hierarchical": [
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "12"
+      ],
+      "position": 0
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "13"
+      ],
+      "position": 1
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "14"
+      ],
+      "position": 2
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "15"
+      ],
+      "position": 3
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "16"
+      ],
+      "position": 4
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "17"
+      ],
+      "position": 5
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "18"
+      ],
+      "position": 6
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "19"
+      ],
+      "position": 7
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "20"
+      ],
+      "position": 8
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "21"
+      ],
+      "position": 9
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "22"
+      ],
+      "position": 10
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "23"
+      ],
+      "position": 11
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "24"
+      ],
+      "position": 12
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "25"
+      ],
+      "position": 13
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "26"
+      ],
+      "position": 14
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "27"
+      ],
+      "position": 15
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "28"
+      ],
+      "position": 16
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "29"
+      ],
+      "position": 17
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "position": 18
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "29"
+      ],
+      "position": 19
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "30"
+      ],
+      "position": 20
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "31"
+      ],
+      "position": 21
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "32"
+      ],
+      "position": 22
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "33"
+      ],
+      "position": 23
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "34"
+      ],
+      "position": 24
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "35"
+      ],
+      "position": 25
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "position": 26
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with Entangling Layer",
+      "size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "34"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "start_position": 27,
+      "end_position": 31
+    },
+    {
+      "type": "gate",
+      "name": "h",
+      "qubits": [
+        "34"
+      ],
+      "position": 31
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "35"
+      ],
+      "position": 32
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with Entangling Layer",
+      "size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "start_position": 33,
+      "end_position": 37
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with Entangling Layer",
+      "size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "34"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "start_position": 37,
+      "end_position": 41
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with Entangling Layer",
+      "size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "start_position": 41,
+      "end_position": 45
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "29"
+      ],
+      "position": 45
+    },
+    {
+      "type": "gate",
+      "name": "rz",
+      "qubits": [
+        "34"
+      ],
+      "position": 46
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "28",
+        "34"
+      ],
+      "position": 47
+    },
+    {
+      "type": "gate",
+      "name": "rz",
+      "qubits": [
+        "28"
+      ],
+      "position": 48
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "28",
+        "29"
+      ],
+      "position": 49
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "34"
+      ],
+      "position": 50
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "35"
+      ],
+      "position": 51
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "34",
+        "35"
+      ],
+      "position": 52
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "position": 53
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "position": 54
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "29"
+      ],
+      "position": 55
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "34",
+        "28"
+      ],
+      "position": 56
+    },
+    {
+      "type": "gate",
+      "name": "h",
+      "qubits": [
+        "28"
+      ],
+      "position": 57
+    },
+    {
+      "type": "macro",
+      "label": "Rotation-Entangling Block",
+      "size": 3,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        }
+      ],
+      "start_position": 58,
+      "end_position": 61
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "35"
+      ],
+      "position": 61
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with CNOT Pair",
+      "size": 3,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        }
+      ],
+      "start_position": 62,
+      "end_position": 65
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation Block",
+      "size": 2,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "28"
+          ]
+        }
+      ],
+      "start_position": 65,
+      "end_position": 67
+    },
+    {
+      "type": "gate",
+      "name": "rz",
+      "qubits": [
+        "28"
+      ],
+      "position": 67
+    },
+    {
+      "type": "macro",
+      "label": "Rotation-Entangling Block",
+      "size": 3,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        }
+      ],
+      "start_position": 68,
+      "end_position": 71
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation with CNOT Pair",
+      "size": 3,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        }
+      ],
+      "start_position": 71,
+      "end_position": 74
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "29"
+      ],
+      "position": 74
+    },
+    {
+      "type": "macro",
+      "label": "RY Rotation Block",
+      "size": 2,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "28"
+          ]
+        }
+      ],
+      "start_position": 75,
+      "end_position": 77
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "28"
+      ],
+      "position": 77
+    },
+    {
+      "type": "gate",
+      "name": "rz",
+      "qubits": [
+        "34"
+      ],
+      "position": 78
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "34",
+        "29"
+      ],
+      "position": 79
+    },
+    {
+      "type": "gate",
+      "name": "u2",
+      "qubits": [
+        "35"
+      ],
+      "position": 80
+    },
+    {
+      "type": "gate",
+      "name": "cx",
+      "qubits": [
+        "28",
+        "35"
+      ],
+      "position": 81
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "36"
+      ],
+      "position": 82
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "37"
+      ],
+      "position": 83
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "38"
+      ],
+      "position": 84
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "39"
+      ],
+      "position": 85
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "40"
+      ],
+      "position": 86
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "41"
+      ],
+      "position": 87
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "42"
+      ],
+      "position": 88
+    },
+    {
+      "type": "gate",
+      "name": "x",
+      "qubits": [
+        "43"
+      ],
+      "position": 89
+    }
+  ],
+  "macros": [
+    {
+      "label": "RY Rotation with Entangling Layer",
+      "count": 2,
+      "window_size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "34"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "start": 27,
+          "end": 31
+        },
+        {
+          "start": 37,
+          "end": 41
+        }
+      ]
+    },
+    {
+      "label": "RY Rotation with Entangling Layer",
+      "count": 2,
+      "window_size": 4,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "28",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "28"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "start": 33,
+          "end": 37
+        },
+        {
+          "start": 41,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "label": "Rotation-Entangling Block",
+      "count": 2,
+      "window_size": 3,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "start": 58,
+          "end": 61
+        },
+        {
+          "start": 68,
+          "end": 71
+        }
+      ]
+    },
+    {
+      "label": "RY Rotation with CNOT Pair",
+      "count": 2,
+      "window_size": 3,
+      "gates": [
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "35"
+          ]
+        },
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "29"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "start": 62,
+          "end": 65
+        },
+        {
+          "start": 71,
+          "end": 74
+        }
+      ]
+    },
+    {
+      "label": "RY Rotation Block",
+      "count": 2,
+      "window_size": 2,
+      "gates": [
+        {
+          "name": "ry",
+          "qubits": [
+            "34"
+          ]
+        },
+        {
+          "name": "cx",
+          "qubits": [
+            "34",
+            "28"
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "start": 65,
+          "end": 67
+        },
+        {
+          "start": 75,
+          "end": 77
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "original_gates": 90,
+    "transpiled_gates": 90,
+    "circuit_depth": 41,
+    "num_qubits": 44,
+    "num_macros": 5,
+    "total_macro_instances": 10,
+    "hierarchical_items": 68,
+    "compression_ratio": 1.32,
+    "dag_nodes": 178,
+    "dag_edges": 160
+  }
+}
